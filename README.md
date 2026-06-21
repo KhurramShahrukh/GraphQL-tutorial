@@ -1,11 +1,13 @@
-This a Graph QL tutorial 
+# GraphQL Tutorial
 
 Frontend Tech
-TypeScript
-React
+
+TypeScript,
+React,
 Apollo Client
 
 Backend Tech
-TypeScript
-Node
+
+TypeScript,
+Node,
 Apollo Server
